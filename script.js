@@ -5,7 +5,7 @@ const teamMembers = [
     name: "Marco Bianchi",
     role: "Designer",
     email: "marcobianchi@team.com",
-    img: "/img/male1.png"
+    img: "img/male1.png"
   },
   {
     name: "Laura Rossi",
